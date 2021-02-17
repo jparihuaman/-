@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{w2l6:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),r=n("xiL2"),o=n("vrFN");t.default=function(){return l.a.createElement(r.a,null,l.a.createElement(o.a,{title:"404: Not found"}),l.a.createElement("h1",null,"No encontrado"),l.a.createElement("p",null,"Esta ruta no existe... la tristesa."))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-918d233c409834f4b246.js.map
